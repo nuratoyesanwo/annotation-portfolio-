@@ -52,13 +52,13 @@ annotation-portfolio/
 
 ## Highlighted Work
 
-### Panoptic Segmentation — Japan Ver 1.3.2
+### Panoptic Segmentation 
 - Served as **Team Captain and QA Reviewer**, managing a team of 6 annotators
 - Conducted systematic error analysis using a defined taxonomy (MERGE, OVER, UNDER, FP, MISCLASSIFICATION)
 - Maintained a multi-sheet Excel tracker for individual annotator performance
 - Produced QA reports and manager-facing summaries
 
-### Egocentric Video Labeling — Atlas Capture
+### Egocentric Video Labeling 
 - Labeled egocentric video footage for manipulation task datasets
 - Applied strict conventions for hand description, spatial anchoring, bimanual annotation, and action lifecycle documentation
 - Audited AI-generated captions against project guidelines for correctness and completeness
@@ -122,4 +122,4 @@ Quick reference for common export formats:
 ## Contact
 
 Open to remote data annotation, AI training, and AI evaluation roles.
-Reach me at: **[your email]** · LinkedIn: **[your profile]**
+Reach me at: **nuratoyesanwo@gmail.com** · LinkedIn: **[(https://www.linkedin.com/in/nurat-oyesanwo/)]**
