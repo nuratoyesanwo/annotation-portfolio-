@@ -1,5 +1,5 @@
 # Data Annotation & AI Evaluation Portfolio
-**Nurat Oyesanwo** · Lagos, Nigeria · [LinkedIn](https://www.linkedin.com/in/nurat-oyesanwo/) · [Email](mailto:nooriyaoyesanwo@gmail.com)
+**Nurat Oyesanwo** · Lagos, Nigeria · [LinkedIn](https://www.linkedin.com/in/nurat-oyesanwo/) · [Email](mailto:nuratoyesanwo@gmail.com)
 
 ---
 
