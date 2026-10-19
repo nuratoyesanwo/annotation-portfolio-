@@ -5,7 +5,7 @@ nooriyaoyesanwo@gmail.com | [LinkedIn](https://www.linkedin.com/in/nurat-oyesanw
 
 ## Professional Summary
 
-Detail-oriented and results-driven Data Annotator and AI Trainer with 3+ years of experience in data annotation, quality evaluation, and guideline-based review for machine learning systems. Proven ability to maintain high accuracy across large-scale datasets, contribute to RLHF feedback workflows, and validate AI-generated outputs. Proficient in industry-leading annotation platforms including CVAT, Labelbox, Supervisely, and Segment AI. Holds a C2 Proficient English certification and is committed to driving data quality that improves real-world AI performance.
+Detail-oriented and results-driven Data Annotator and AI Trainer with 3+ years of experience in data annotation, quality evaluation, and guideline-based review for machine learning systems. Proven ability to maintain high accuracy across large-scale datasets, contribute to RLHF feedback workflows, and validate AI-generated outputs. Experienced in gameplay behaviour annotation, audio transcription, egocentric video labeling, and multimodal dataset creation. Proficient in industry-leading annotation platforms including CVAT, Labelbox, Supervisely, Segment AI, and Mercor RL Studio. Holds a C2 Proficient English certification and is committed to driving data quality that improves real-world AI performance.
 
 ---
 
@@ -27,6 +27,14 @@ Detail-oriented and results-driven Data Annotator and AI Trainer with 3+ years o
 - Validated bimanual hand annotations, distinguishing active and support hand roles and documenting simultaneous hand actions across segmented video timelines
 - Applied mandatory spatial anchoring conventions, grounding every described action to specific environmental coordinates within the scene
 - Maintained strict temporal continuity across annotation timelines, ensuring seamless segment coverage with no gaps between caption windows
+
+### Gameplay Data Annotator | Mercor | 2025 – 2026
+- Analysed approximately 10-minute gameplay recordings to identify and annotate meaningful player actions and behavioural sequences for AI training
+- Created timestamped annotations describing player intentions, objectives, sub-goals, decisions, and failure events using Mercor RL Studio
+- Applied a four-level hierarchical annotation framework — Goal, Sub-goal, Decision, and Failure — to structure gameplay behaviour into machine-readable training data
+- Maintained temporal accuracy, contextual understanding, and consistency across all annotated gameplay sequences
+- Prepared annotations for quality review by senior reviewers and incorporated feedback to maintain project standards
+- Worked with JSONL-format keystroke logs and adhered strictly to project annotation guidelines throughout
 
 ### Data Annotation Reviewer / Egocentric Video Labeling | Atlas Capture | November 2025 – March 2026
 - Reviewed and corrected annotations for egocentric (first-person) video datasets involving human physical task execution, ensuring high-quality training data for computer vision models
@@ -60,6 +68,7 @@ Detail-oriented and results-driven Data Annotator and AI Trainer with 3+ years o
 - Data Annotation & Labeling
 - Quality Control & Assurance
 - AI Output Evaluation & RLHF Feedback
+- Gameplay Behaviour & Intent Analysis
 - Guideline-Based Evaluation
 - Fact-Checking & Data Validation
 - Dataset Management & Documentation
@@ -72,12 +81,15 @@ Detail-oriented and results-driven Data Annotator and AI Trainer with 3+ years o
 - Supervisely (Advanced Annotation & QA Workflows)
 - Segment AI (3D Cuboid & Object Tracking)
 - FastLabel (LiDAR Annotations)
+- Mercor RL Studio (Gameplay Annotation)
 - ELM Tool & SRT
 
 ### Annotation Specialization
 - 2D & 3D Annotation (Images, Video, LiDAR)
 - Bounding Boxes, Polygons, Keypoints & Cuboids
 - Semantic & Instance Segmentation
+- Gameplay Behaviour & Temporal Event Annotation
+- Audio Transcription & Speech Event Tagging
 - Object Detection & Multi-Object Tracking
 - Dataset Validation & QA Review
 - Machine Learning Concepts & RLHF
