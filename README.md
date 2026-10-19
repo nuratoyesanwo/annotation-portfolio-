@@ -138,7 +138,7 @@ Quick reference for common export formats:
 ## Contact
 
 Open to remote data annotation, AI training, and AI evaluation roles.
-Reach me at: **nooriyaoyesanwo@gmail.com** · LinkedIn: **[Nurat Oyesanwo](https://www.linkedin.com/in/nurat-oyesanwo/)**
+Reach me at: **nuratyaoyesanwo@gmail.com** · LinkedIn: **[Nurat Oyesanwo](https://www.linkedin.com/in/nurat-oyesanwo/)**
 
 ---
 
