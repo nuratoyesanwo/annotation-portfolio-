@@ -1,5 +1,5 @@
 # Nurat Oyesanwo
-nooriyaoyesanwo@gmail.com | [LinkedIn](https://www.linkedin.com/in/nurat-oyesanwo/)
+nurataoyesanwo@gmail.com | [LinkedIn](https://www.linkedin.com/in/nurat-oyesanwo/)
 
 ---
 
